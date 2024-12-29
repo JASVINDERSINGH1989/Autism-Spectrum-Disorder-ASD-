@@ -1,5 +1,7 @@
 pandas==1.1.4
-plotly==4.14.1
+plotly
+streamlit_option_menu
+streamlit_lottie
 matplotlib==3.3.3
 seaborn==0.11.1
 numpy==1.18.5
