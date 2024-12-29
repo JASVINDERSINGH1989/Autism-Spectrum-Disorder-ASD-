@@ -4,7 +4,7 @@ streamlit_option_menu
 streamlit_lottie
 matplotlib==3.3.3
 seaborn==0.11.1
-numpy==1.18.5
+numpy
 streamlit==0.72.0
 Pillow==8.0.1
 scikit_learn==0.24.0
