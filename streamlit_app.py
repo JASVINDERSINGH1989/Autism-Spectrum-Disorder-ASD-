@@ -53,7 +53,8 @@ with st.sidebar:
 
 
 if selected=="Signup" :
-
+	
+    st.title(":iphone: :blue[ASD Prediction - By Jasvinder]")
     st.title(":iphone: :blue[Create New Account]")
     new_user = st.text_input("Username")
     new_password = st.text_input("Password",type='password')
