@@ -3,7 +3,7 @@ cython
 plotly
 streamlit_option_menu
 streamlit_lottie
-matplotlib==3.3.3
+matplotlib
 seaborn==0.11.1
 numpy
 streamlit==0.72.0
