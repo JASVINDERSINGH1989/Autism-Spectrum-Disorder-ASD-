@@ -54,7 +54,7 @@ with st.sidebar:
 
 if selected=="Signup" :
 	
-    st.title(":orange[autism spectrum disorder (ASD) Prediction]")
+    st.title(":orange[Autism Spectrum Disorder (ASD) Prediction]")
     st.title(":iphone: :blue[Create New Account]")
     new_user = st.text_input("Username")
     new_password = st.text_input("Password",type='password')
